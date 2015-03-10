@@ -1,3 +1,9 @@
+---
+tags: OO
+languages: JavaScript
+level: advanced
+---
+
 # Space Invaders
 Space flight is no joke, and neither is this lab.  You're going to need to create two JS constructor's a `Ship` and `CrewMember`. These constructors will pump out instances that are instances that by default unable to act with one another.  A space ship will be inactive if it is created without a crew.  And a crew member by default will be hanging out in the Cantina looking for a ride if they were not put inside a ship when it is initialized.
 
